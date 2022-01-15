@@ -18,6 +18,6 @@ GIT_REPO=https://github.com/Morsmalleo/AhMyth?ref=https://githubhelp.com
 #
 # Plagiarism is not my virtue, just as lying is not my concern.
 #
-# Install AhMyth
+# Install AhMyth in Kali Linux 2021.4
 sudo rm -rf AhMyth && git clone https://GitHub.com/Morsmalleo/AhMyth && sudo npm uninstall -g electron && sudo npm uninstall -g electron@9.4.1 && sudo npm install -g electron@9.4.1 && cd AhMyth/AhMyth-Server/ && npm start
 echo
