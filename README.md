@@ -1,3 +1,4 @@
+#!/bin/bash
 # Ah! Mito?
 #
 # Muito bem!
