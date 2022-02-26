@@ -9,8 +9,8 @@ apt-get install python3* python3-pip*
 cd AhMyth/AhMyth-Server
 pip3 install -r requirements.txt
 npx electron ./app --no-sandbox start
-
-
+#
+#
 # Install AhMyth in Kali Linux 2021
 # sudo npm uninstall -g electron 
 # sudo npm uninstall -g electron@9.4.1 
